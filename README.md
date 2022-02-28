@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Що потрібно для Загонвів Територіально Оборони України
 
 You can use the [editor on GitHub](https://github.com/freeukr/tedefo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
