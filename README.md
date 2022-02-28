@@ -1,5 +1,5 @@
 ## Що потрібно для Загонів Територіальної Оборони України
 
-### [Екіпірування](https://github.com/freeukr/tedefo/edit/main/docs/equipment.md)
-### [Де придбати?](https://github.com/freeukr/tedefo/edit/main/docs/where_to_buy.md)
-### [Як допомогти](https://github.com/freeukr/tedefo/edit/main/docs/how_to_help.md)
+### [Екіпірування](https://freeukr.github.io/tedefo/docs/equipment)
+### [Де придбати?](https://freeukr.github.io/tedefo/docs/where_to_buy)
+### [Як допомогти](https://freeukr.github.io/tedefo/docs/how_to_help)
